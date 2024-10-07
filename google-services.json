@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615115468928",
+    "project_id": "amaf-dea2e",
+    "storage_bucket": "amaf-dea2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615115468928:android:bbe2c42d1cb891a7baf665",
+        "android_client_info": {
+          "package_name": "com.amaf.amaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615115468928-o2c2cjd9pbceuuim2p54jqt0t3m1gond.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amaf.amaf",
+            "certificate_hash": "556617457f4d2a1d19767fb1f5e85a857a4e9ac4"
+          }
+        },
+        {
+          "client_id": "615115468928-h4i0hlr55281so0r56c44hg2fa1uql05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYpc415zFgbWNASShaEDHJU9df9u_GoFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615115468928-h4i0hlr55281so0r56c44hg2fa1uql05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
